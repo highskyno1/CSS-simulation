@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<connection id="Texas Instruments Simulator">
+	<connectionType Type="TISIM"/>
+	<property Type="hiddenfield" Value="No" id="dataFileRequired"/>
+</connection>
